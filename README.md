@@ -3,7 +3,7 @@ Author - Sandip Sadhukhan
 
 
 ## Questions
----
+
 1. Print your name
 2. Convert a Temperature from celsius to farenheit
 3. Swap two numbers
